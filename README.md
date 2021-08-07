@@ -12,7 +12,7 @@ https://mosarto.github.io/gymepage/#/
 
 ## Demo:
 
-<img src="https://raw.githubusercontent.com/Mosarto/gyme/main/demo/demo.gif" width="700" height="440" title="Screen Shoot">
+<img src="https://raw.githubusercontent.com/Mosarto/gyme/main/demo/demo.gif" width="720" height="440" title="Screen Shoot">
 
 <br/>
 
